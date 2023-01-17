@@ -5,6 +5,6 @@
 <br>
 <b>How to Run:</b> Move mouse over eye to begin tracking.<br>
 <br>
-<b>Future improvements:</b> Future iterations will position the two eyes next to each other rather than stacked on top of each other.<br>
+<b>Future improvements:</b> Future iterations will add a blink to the eyes.<br>
 <br>
 <b>License information:</b> MIT License
